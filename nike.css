@@ -1,0 +1,74 @@
+a { 
+    text-decoration: font-family
+}
+ul {
+    list-style: none;
+    margin: 0;
+    display: flex;
+    float:right;}
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center; 
+}
+li {
+    margin-left: 20px;
+    font-size: 20px;
+    }
+    img {
+    width: 300px;}
+
+h1{
+
+    font-size: 20px;
+    text-align: left;
+    font-family: sans-serif;
+}
+    p{
+    text-align: left;
+    font-family: sans-serif;
+}
+.tenis{
+    display: inline-block;
+    margin-right: 100px;
+    text-align: center;
+    margin-bottom: 90px;
+}
+.tenises{
+    margin: 0%;
+    margin-left: 80px ;
+}
+.bla{
+    display: flex;
+    width: 100px;
+}
+.logos{
+    width: 30px;
+      display: flex;
+      margin-bottom: 70px;
+}
+.links{
+    display: flex;
+   flex-wrap: wrap;
+   margin-left: 100px ;
+   margin-bottom: 70px;
+   height: 300px;
+
+}
+.links div{
+    margin-right: 100px ;
+    text-align: center;
+    margin-bottom: 70px;
+    height: 300px;
+}
+.kkk h1{
+  
+    text-align: center;
+    margin-bottom: 70px;
+}
+.kk h2{
+    text-align: center;
+    font-family:sans-serif;
+    
+
+}
